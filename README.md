@@ -23,24 +23,11 @@ ___
    
 ![logo](https://files.catbox.moe/rw013q.jpg)
 
----
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=**😘WELCOME+TO+MY+REPOSITERY😘**!;❤❤XERO+MD+Thanks+for+visiting❤❤!;**🥰🥰QADEER+KHAN+KULACHI🥰🥰**!"/>
-</a>
-
-___
-
-<p align="center"> 
-  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+XERO+MD ❤️+;XERO-+MD 🎉;CREATED+𝗕Y+QADEER-KHAN ✔️" alt="Typing SVG" /></a>
-  </p>
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 <br>
 <p align="center"
-  <a href="https://github.com/Qadeer-bhai/XERO-MD">
+  <a href="https://github.com/Xero167/XERO-MD">
     
   
 </p> 
