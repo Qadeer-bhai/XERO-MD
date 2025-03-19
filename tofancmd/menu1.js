@@ -71,10 +71,10 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "TOFAN MD MENU LIST",
+                    title: "XERO MD MENU LIST",
                     body: "Dont worry bro I have more tap to follow",
-                    thumbnailUrl: "https://qu.ax/NfJZk.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029Vaw6yRaBPzjZPtVtA80A",
+                    thumbnailUrl: "https://qu.ax/FUjBe.jpg",
+                    sourceUrl: "https://whatsapp.com/channel/0029VawgPgAGpLHPOHIIkO0Z",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
