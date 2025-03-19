@@ -42,7 +42,7 @@ const formatUptime = (seconds) => {
 
 const fetchGitHubStats = async () => {
     try {
-        const response = await axios.get("https://api.github.com/repos/Qadeer-bhai/TOFAN-MD");
+        const response = await axios.get("https://api.github.com/repos/Xero167/XERO-MD");
         const forksCount = response.data.forks_count;
         const starsCount = response.data.stargazers_count;
         const totalUsers = forksCount * 2 + starsCount * 2;
@@ -118,7 +118,7 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
         categorizedCommands[category].push(command.nomCom);
     });
 
-    moment.tz.setDefault("Asia/Islamabad");
+    moment.tz.setDefault("Asia/Karachi");
     const currentTime = moment();
     const formattedTime = currentTime.format("HH:mm:ss");
     const formattedDate = currentTime.format("DD/MM/YYYY");
@@ -168,7 +168,7 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
         commandsList += "\n╰┈┈┈┈┈┈┈┈┈┈┈⊷\n";
     }
 
-    commandsList += readMore + "\nworld of *Qadeer_TOFAN_OWNER* we are happy\n";
+    commandsList += readMore + "\nworld of *ABBAS&QADEER_XERO_OWNER* we are happy\n";
 
     try {
         const senderName = message.sender || message.from;
