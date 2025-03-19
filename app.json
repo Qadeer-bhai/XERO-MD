@@ -9,7 +9,7 @@
   ],
   "logo": "https://files.catbox.moe/rw013q.jpg",
   "repository": "https://github.com/Xero167/XERO-MD",
-  "succes_url": "/",
+  "succes_url": "https://github.com/Xero167/XERO-MD",
   "stack": "container",
   "env": {
     "PREFIX": {
